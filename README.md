@@ -1,4 +1,4 @@
-# Kai 13 [![Build Status](https://travis-ci.org/sparanoid/kai-13.png)](https://travis-ci.org/sparanoid/kai-13) [![Node Dependencies](https://david-dm.org/sparanoid/kai-13.png)](https://david-dm.org/sparanoid/kai-13)
+# Kai 13 [![Build Status](https://travis-ci.org/sparanoid/kai-13.png)](https://travis-ci.org/sparanoid/kai-13) [![devDependency Status](https://david-dm.org/sparanoid/kai-13/dev-status.png)](https://david-dm.org/sparanoid/kai-13#info=devDependencies)
 
 The missing child theme of Twenty Thirteen, A better interface based on Twenty Thirteen, No need to change the default theme, no database option strings will be created. Install and go. You can have a look at the [demo][demo] first.
 
