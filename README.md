@@ -1,6 +1,6 @@
 # Kai 13 [![Build Status](https://travis-ci.org/sparanoid/kai-13.png)](https://travis-ci.org/sparanoid/kai-13) [![devDependency Status](https://david-dm.org/sparanoid/kai-13/dev-status.png)](https://david-dm.org/sparanoid/kai-13#info=devDependencies)
 
-The missing child theme of Twenty Thirteen, A better interface based on Twenty Thirteen, No need to change the default theme, no database option strings will be created. Install and go. You can have a look at the [demo][demo] first.
+The missing child theme of Twenty Thirteen, A better interface based on Twenty Thirteen, No need to change the default theme, no database option strings will be created. Install and go.
 
 ## Download
 
@@ -19,4 +19,3 @@ Answer: Their theme reviewer thinks my theme “just offer a few minor CSS tweak
 GPLv2
 
 [fsf]: http://www.fsf.org
-[demo]: http://postholic.com/kai-13-demo/
