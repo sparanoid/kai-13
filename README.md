@@ -1,5 +1,7 @@
 # Kai 13 [![Build Status](https://travis-ci.org/sparanoid/kai-13.png)](https://travis-ci.org/sparanoid/kai-13) [![devDependency Status](https://david-dm.org/sparanoid/kai-13/dev-status.png)](https://david-dm.org/sparanoid/kai-13#info=devDependencies)
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/sparanoid/kai-13.svg)](https://greenkeeper.io/)
+
 The missing child theme of Twenty Thirteen, A better interface based on Twenty Thirteen, No need to change the default theme, no database option strings will be created. Install and go.
 
 ## Download
